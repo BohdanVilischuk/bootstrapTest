@@ -1,0 +1,12 @@
+//Circles anima
+$borderWidth: 10px;
+$animationTime: 1.5s;
+$border-color-default: #eee;
+$size: 160px;
+
+$howManySteps: 100; 
+
+.progress-primary .progress-bar { border-color:  #30bae7; }
+.progress-success .progress-bar { border-color: #15c7a8; }
+.progress-warning .progress-bar { border-color:  #eb7d4b; }
+.progress-dark .progress-bar { border-color:  #d74680; }
